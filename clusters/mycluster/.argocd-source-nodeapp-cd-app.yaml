@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - stephenwon/nodeapp-git:1.4.0
