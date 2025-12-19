@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - dockertest111111/nodeapp-git:7.0.0
